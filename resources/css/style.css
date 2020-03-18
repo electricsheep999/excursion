@@ -22,12 +22,7 @@ main h1 {
 main h2 {
     font-size: 21px;
     color: gray;
-}
-
-main img {
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
+    text-align: center;
 }
 
 p {
