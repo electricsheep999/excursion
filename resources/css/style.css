@@ -44,4 +44,8 @@ a {
 p.copyright {
   text-align: right;
   color: gray;
-}    
+}
+
+img {
+    padding: 5px;
+}
