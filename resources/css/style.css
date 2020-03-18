@@ -22,3 +22,9 @@ header a {
     font-size: 1rem;
     color: aquamarine;
 }
+
+.video {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
