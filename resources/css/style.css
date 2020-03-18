@@ -13,8 +13,12 @@ h1 {
     text-align: center;
 }
 
+p {
+    font-size: 1rem;
+    text-align: center;
+}
+
 header a {
     font-size: 1rem;
     color: aquamarine;
-    text-align: center;
 }
